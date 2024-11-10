@@ -1,0 +1,3 @@
+from brute_force import BruteForce
+from linear_brute_force import LinearBruteForce
+from composition import Composition
